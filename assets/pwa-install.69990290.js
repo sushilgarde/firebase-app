@@ -1,1 +1,0 @@
-import{b as t}from"./index.178d030c.js";import{i as a}from"./use-pwa-install.e19f30d3.js";import"./analytics-service.ad09ab1b.js";import"./catalog-service.8bc5e9be.js";var p=t(()=>{a()});export{p as default};
